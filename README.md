@@ -10,4 +10,4 @@
 [ISIC Skin Image Analysis Workshop and Challenge](https://workshop.isic-archive.com/2018/)
 
 ## data
-[ISIC Archive 2018](https://challenge.isic-archive.com/data/#2018)
+[Skin Cancer MNIST: HAM10000]([https://challenge.isic-archive.com/data/#2018](https://www.kaggle.com/datasets/kmader/skin-cancer-mnist-ham10000))
